@@ -1,5 +1,6 @@
 # ctlauncher
 [![Build Status](https://travis-ci.org/crafting-table/ctlauncher.svg?branch=master)](https://travis-ci.org/crafting-table/ctlauncher)
+[![Windows Build](https://img.shields.io/appveyor/ci/crafting-table/ctlauncher.svg)](https://ci.appveyor.com/project/maccelerated/ctlauncher)
 [![Dependency Status](https://david-dm.org/crafting-table/ctlauncher.svg?theme=shields.io)](https://david-dm.org/crafting-table/ctlauncher)
 [![License](https://img.shields.io/github/license/crafting-table/ctlauncher.svg)](license)
 > An unnecessary and exorbitant mod pack launcher for Minecraft and Forge.
