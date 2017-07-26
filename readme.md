@@ -1,7 +1,9 @@
 # ctlauncher
 [![Build Status](https://travis-ci.org/crafting-table/ctlauncher.svg?branch=master)](https://travis-ci.org/crafting-table/ctlauncher)
 [![Windows Build](https://img.shields.io/appveyor/ci/crafting-table/ctlauncher.svg)](https://ci.appveyor.com/project/maccelerated/ctlauncher)
+[![Build Status](https://circleci.com/gh/crafting-table/ctlauncher.svg?style=shield)](https://circleci.com/gh/crafting-table/ctlauncher)
 [![Dependency Status](https://david-dm.org/crafting-table/ctlauncher.svg?theme=shields.io)](https://david-dm.org/crafting-table/ctlauncher)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![License](https://img.shields.io/github/license/crafting-table/ctlauncher.svg)](license)
 > An unnecessary and exorbitant mod pack launcher for Minecraft and Forge.
 
@@ -13,6 +15,7 @@ I'll upload stuff soon enough. I'm serious.
 The Crafting Table Launcher is a Just Because™ project. There are plenty of great mod pack launchers available for Minecraft. There was *no need what-so-ever* to make this. Honestly, I think wrote it as an Electron app just because I'm a bad person.
 
 
+
 ## Contributing
 
 > Please use GitHub to submit issues and pull requests.
@@ -21,7 +24,7 @@ The Crafting Table Launcher is a Just Because™ project. There are plenty of gr
 - `npx rollup -c -w`
 - `npx electron .`
 - `npm up` when packages update (`ncu` is also nice)
-- `rm -rf node_modules` whenever `npm^5` does a dumb
+- `rm -rf node_modules` whenever `npm^5` does a silly
 
 
 ## Features
@@ -37,7 +40,7 @@ The Crafting Table Launcher is a Just Because™ project. There are plenty of gr
 For mod pack managers:
 
 - [x] Simple *CT-style* mod pack JSON files
-- [ ] Dead simple drag and drop mod pack editor
+- [ ] Super simple drag and drop mod pack editor
 - [ ] Host mod packs from a custom API
 - [x] Forge support
 - [ ] Sponge support
