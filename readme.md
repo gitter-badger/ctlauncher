@@ -1,14 +1,10 @@
 # ctlauncher
-[![Build Status](https://travis-ci.org/crafting-table/ctlauncher.svg?branch=master)](https://travis-ci.org/crafting-table/ctlauncher)
-[![Windows Build](https://img.shields.io/appveyor/ci/crafting-table/ctlauncher.svg)](https://ci.appveyor.com/project/maccelerated/ctlauncher)
-[![Build Status](https://circleci.com/gh/crafting-table/ctlauncher.svg?style=shield)](https://circleci.com/gh/crafting-table/ctlauncher)
-[![Dependency Status](https://david-dm.org/crafting-table/ctlauncher.svg?theme=shields.io)](https://david-dm.org/crafting-table/ctlauncher)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![License](https://img.shields.io/github/license/crafting-table/ctlauncher.svg)](license)
 > An unnecessary and exorbitant mod pack launcher for Minecraft and Forge.
 
 # *FIRST PUSH HAS GOTTA WAIT*
-I'll upload stuff soon enough. I'm serious.
+I'll upload stuff soon enough. Tests and refactor is almost done.
 
 ## Introduction
 
@@ -41,7 +37,7 @@ For mod pack managers:
 
 - [x] Simple *CT-style* mod pack JSON files
 - [ ] Super simple drag and drop mod pack editor
-- [ ] Host mod packs from a custom API
+- [ ] Serve mod packs from a custom API
 - [x] Forge support
 - [ ] Sponge support
 - [ ] Add Sponge plugins from Ore
