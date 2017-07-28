@@ -66,6 +66,6 @@ Please contact <robmac@maccelerated.me> with licensing and legal inquiries.
 
 > This repository is licensed as described in [license.md](license.md).
 
-> This repository is not affiliated with Mojang or Microsoft.
+> This repository is not affiliated with Mojang, Microsoft, or Twitch.
 
 > "Minecraft" is a trademark of Mojang Synergies AB.
