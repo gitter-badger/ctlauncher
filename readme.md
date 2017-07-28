@@ -10,7 +10,7 @@ I'll upload stuff soon enough. Tests and refactor is almost done.
 
 The Crafting Table Launcher is a Just Because™ project. There are plenty of great mod pack launchers available for Minecraft. There was *no need what-so-ever* to make this. Honestly, I think wrote it as an Electron app just because I'm a bad person.
 
-
+**A Mojang account from [Minecraft Java Edition](https://minecraft.net/) is required to play.**
 
 ## Contributing
 
@@ -25,6 +25,7 @@ The Crafting Table Launcher is a Just Because™ project. There are plenty of gr
 
 ## Features
 
+- [x] Uses Mojang account for all authentication
 - [x] Launch mod packs with just their folders
 - [ ] Download pack updates in the background
 - [x] Save disk space by sharing files between packs
@@ -58,3 +59,13 @@ For contributors:
 - [x] Writing in JS makes anyone hate life
 - [ ] Appveyor thingy for Windows releases?
 - [ ] Travis for linux releases?
+
+## License
+
+Please contact <robmac@maccelerated.me> with licensing and legal inquiries.
+
+> This repository is licensed as described in [license.md](license.md).
+
+> This repository is not affiliated with Mojang or Microsoft.
+
+> "Minecraft" is a trademark of Mojang Synergies AB.
