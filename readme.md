@@ -1,4 +1,6 @@
 # ctlauncher
+
+[![Join the chat at https://gitter.im/crafting-table/ctlauncher](https://badges.gitter.im/crafting-table/ctlauncher.svg)](https://gitter.im/crafting-table/ctlauncher?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![License](https://img.shields.io/github/license/crafting-table/ctlauncher.svg)](license.md)
 > An unnecessary and exorbitant mod pack launcher for Minecraft and Forge.
